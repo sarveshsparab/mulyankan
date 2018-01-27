@@ -1,0 +1,12 @@
+/**/
+/* defaults */
+/**/
+.sky-tabs > label:hover span span {
+	background: #d2477e;
+}
+.sky-tabs > input:checked + label span span {
+	background: #d2477e;
+}
+.sky-tabs > .active span span {
+	background: #d2477e !important;	
+}
